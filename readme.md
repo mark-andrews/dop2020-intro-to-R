@@ -1,8 +1,5 @@
 This is a brief introduction to R workshop.
 
-You can download the contents of this repository as a zip archive, which also contains a pdf of slides, here:
-
-
 # Schedule
 
 * What is R and why should we care?
