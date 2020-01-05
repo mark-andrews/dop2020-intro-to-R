@@ -1,7 +1,7 @@
 This is a brief introduction to R workshop.
 
-You can download the contents of this repository as a zip archive here:
-<https://github.com/mark-andrews/intro-to-R-sept-2019/archive/master.zip>
+You can download the contents of this repository as a zip archive, which also contains a pdf of slides, here:
+
 
 # Schedule
 
